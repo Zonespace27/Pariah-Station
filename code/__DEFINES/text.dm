@@ -55,3 +55,5 @@
 #define CLOWN_NONSENSE_FILE "clown_nonsense.json"
 /// File location for cult shuttle curse descriptions
 #define CULT_SHUTTLE_CURSE "cult_shuttle_curse.json"
+/// File location for ninja lines
+#define NINJA_FILE "ninja.json"
